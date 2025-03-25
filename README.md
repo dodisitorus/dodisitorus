@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Dodi 👋  
+**Mobile Developer** | Android Developer | iOS Developer | Game Dev Hobbyist
 
-<!--
-**dodisitorus/dodisitorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 👨‍💻 Android & iOS developer with passion for clean UI and scalable architecture  
+- 🎮 Exploring game development using Unreal Engine (C++)  
+- 🧠 Always learning and building cool things
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Android**: Kotlin, Java, Jetpack Compose, MVVM, Retrofit, Koin, Firebase
+- **iOS**: Swift, SwiftUI, Combine, Firebase
+- **Game Dev**: Unreal Engine, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me
+- Email: dodip.sitorus23041996@gmail.com
+- GitHub: [@dodisitorus](https://github.com/dodisitorus)
