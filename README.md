@@ -13,4 +13,4 @@
 
 ### 📫 Reach Me
 - Email: dodip.sitorus23041996@gmail.com
-- Linkedin: [@dodisitorus](https://www.linkedin.com/in/dodi-sitorus-8a958412b)
+- Linkedin: [@dodisitorus](https://www.linkedin.com/in/dodipsitorus/)
