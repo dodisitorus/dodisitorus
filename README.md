@@ -13,9 +13,7 @@
 
 🧪 Also Familiar With
 (Used occasionally when required, but not my preferred stack)
-- Flutter
-- React Native
-- Cordova
+⚠️ Flutter, React Native, Cordova
 
 🧱 Architecture Patterns
 - Android: MVVM
