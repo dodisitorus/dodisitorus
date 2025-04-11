@@ -17,7 +17,7 @@
 
 🧱 Architecture Patterns
 - Android: MVVM
-- iOS: VIPER, MVVM
+- iOS: VIPER
 - Game Dev: Gameplay Framework, Component-based Architecture
 
 ### 📫 Reach Me
