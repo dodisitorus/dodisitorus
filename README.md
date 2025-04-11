@@ -1,5 +1,6 @@
 ## Hi, I'm Dodi 👋  
-**Native Mobile Developer** | Android Developer | iOS Developer | Game Dev Hobbyist
+**Native Mobile Developer** | Android Developer | iOS Developer 
+( Game Dev Hobbyist )
 
 ### 🚀 About Me
 - 👨‍💻 Android & iOS developer with passion for clean UI and scalable architecture  
